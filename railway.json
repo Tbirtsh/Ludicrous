@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "name": "Ludicrous",
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "buildCommand": "npm install && npm run build",
+  "startCommand": "npm run start"
+}
